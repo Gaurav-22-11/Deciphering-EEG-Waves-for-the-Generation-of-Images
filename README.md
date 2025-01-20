@@ -1,8 +1,5 @@
 # Deciphering-EEG-Waves-for-the-Generation-of-Images
-
-# Deciphering EEG Waves for the Generation of Images
-
-![BCI and EEG Research](https://via.placeholder.com/1000x300) <!-- You can replace this with a relevant banner or image -->
+![BCI and EEG Research]() <!-- You can replace this with a relevant banner or image -->
 
 ## 📖 Overview
 This project explores the uncharted territory of using electroencephalography (EEG) waves to generate images with a focus on open vocabulary. EEG waves, known for their application in studying neuronal and cognitive activities, diagnosing neurological disorders, and understanding human psychology, have immense potential in brain-computer interface (BCI) technology and neurolinguistics. 
